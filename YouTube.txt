@@ -1,0 +1,15 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Andrew McLachlan Block List - Youtube
+# Expires: 1 day
+# Homepage: https://www.andrewmclachlan.com
+# Help: N/A
+# License: MIT
+# Total number of network filters: 3
+# ------------------------------------[SUPPORT]-------------------------------------
+# -------------------------------------[INFO]---------------------------------------
+#
+# Youtube list - Block YouTube site
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
